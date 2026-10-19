@@ -1,0 +1,18 @@
+{
+  "KPackageStructure": "Plasma/Applet",
+  "KPlugin": {
+    "Authors": [
+      {
+        "Name": "Tailscale Widget"
+      }
+    ],
+    "Category": "System Information",
+    "Description": "Manage your Tailscale connection and devices",
+    "Icon": "network-vpn",
+    "Id": "org.local.tailscale-widget",
+    "License": "MIT",
+    "Name": "Tailscale",
+    "Version": "1.0.1"
+  },
+  "X-Plasma-API-Minimum-Version": "6.0"
+}
